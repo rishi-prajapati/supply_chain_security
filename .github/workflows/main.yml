@@ -1,7 +1,7 @@
 name: Generate SBOM Report with Syft
 
 on:
-  workflow_dispatch:Updated workflow to generate SBOM for kodekloud/webapp-color
+  workflow_dispatch:
   push:
     branches:
       - master
